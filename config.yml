@@ -19,11 +19,11 @@ languages:
     en:
         languageName: "English"
         weight: 1
-        menu:
-            main:
-                - name: About
-                  url: about
-                  weight: 2
+        # menu:
+            #main:
+              #  - name: About
+                  #url: about
+                  #weight: 2
               #  - name: Archive
                   #url: archives
                   #weight: 4
@@ -81,14 +81,36 @@ params:
     homeInfoParams:
         #Title: "RistrettoRambles"
         Content: >
-            ## Ahoy & Cheers!
+            ## Ahoy & welcome to the "30 Days of Lance" challenge!
+
+            For the next 30 days of my streams on Twitch I'll be using only Lance in Monster Hunter Rise: Sunbreak. It's currently one of my least-played weapons in the 1300 hours I've played of Sunbreak, so aim for the next 30 days is to give myself challenges that will force me to learn a lot more about it, try a variety of aspects of the weapon, and hopefully improve quickly.
             <br />
             <br />
 
-            - Welcome to a small test site for my Monster Hunter challenges! 
-        
+            **Our challenges will be:**
             <br />
-            <br />  
+            - Use only Lance for 30 days of streaming (excepting gathering and cycling quests).
+            <br />
+            - Add at least 205 Lance hunts to my guild card (for a total of 300) by the end of the 30 days.
+            <br />
+            - Clear the game's entire roster of 76 monsters with Lance at least once, aiming to clear an Anomaly or otherwise tough Master Rank version of the monster whenever possible.
+            <br />
+            - Clear all Master Rank event quest with Lance.
+            <br />
+            - Use randomized loadouts of switch skills each night for the first 15 nights of the challenge, with the last 15 days being "anything goes".
+            <br />
+            - Make at least 4 armor sets I'm happy with: Meta Raw, Meta Element, Off-Meta "Goofy", and a favorite most "me-feeling" set.
+            <br />
+            - Collect one lance for each element, status, and one more pure-raw option.
+            <br />
+            - Complete a sub-10 Anomaly hunt of my choosing.
+            <br />
+            - Complete a final, ultimate challenge of my choosing (to be decided much later into the challenge).
+            <br />
+            <br />
+
+
+           
 
             - Thanks for visiting!
 
