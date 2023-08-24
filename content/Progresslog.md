@@ -37,10 +37,21 @@ This is where I'm keeping track of our nightly challenge progress. Use the Table
 
 ## Day 1 - 8/22/23
 
-- Chucked together our first scuffed set from the remains of an Insect Glaive status set
-- Craft the Primordial Malzeno Lance & upgraded its first few augment slots
-- Completed the event "A Grand Gesture", Blood Orange Bishaten and Aknosom
-- Completed an Afflicted Shogun Ceanataur
-- Completed an Afflicted Rajang
-- Completed the event "Flash of Inspiration", Astalos
-- Got walled out by Afflicted Pyre Rakna Kadaki (maybe I need more damage, better positioning, and more aggro?)
+- Chucked together our first scuffed set from the remains of an Insect Glaive status set.
+- Crafted the Primordial Malzeno Lance & upgraded its first few augment slots.
+- Completed the event "A Grand Gesture" with Blood Orange Bishaten and Aknosom.
+- Completed an Afflicted Shogun Ceanataur, lvl 100.
+- Completed an Afflicted Rajang, lvl 160.
+- Completed the event "Flash of Inspiration" with Astalos.
+- Got walled out by Afflicted Pyre Rakna Kadaki (maybe I need more damage, better positioning, and more aggro?).
+
+## Day 2 - 8/23/23
+
+- Carted out to Event Garangolm (the surprise Khezu was... rough).
+- Completed the event "Fear in the Flooded Forest" with Pukei-Pukei, Anjanath, and Bazelgeuese.
+- Remade our set to add Razor Sharp instead of Bladescale Hone.
+- Completed Afflicted Tetranadon, lvl 30.
+- Completed Afflicted Daimyo Hermitaur, lvl 125.
+- Completed Afflicted Bishaten, lvl 134 (1 cart, took me 4 tries).
+- Completed Afflicted Tigrex, lvl 160.
+- Started Qurio augmenting our Lucent Narga lance for a rampage deco upgrade, only to realize we didn't have any rampage decos worth using yet.
