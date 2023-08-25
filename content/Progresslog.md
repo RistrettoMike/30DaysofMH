@@ -55,3 +55,15 @@ This is where I'm keeping track of our nightly challenge progress. Use the Table
 - Completed Afflicted Bishaten, lvl 134 (1 cart, took me 4 tries).
 - Completed Afflicted Tigrex, lvl 160.
 - Started Qurio augmenting our Lucent Narga lance for a rampage deco upgrade, only to realize we didn't have any rampage decos worth using yet.
+
+## Day 3 - 8/24/23
+
+- Completed the event "Another Grand Gesture" with Garangolm.
+- Completed Afflicted Lunagaron, lvl 156. 
+- Completed Afflicted Magma Almudron, lvl 74.
+- Completed Afflicted Pyre Rakna Kadaki, lvl 110.
+- Completed Afflicted Rajang in multiplayer, lvl 170.
+- Completed Afflicted Lunagaron in multiplayer, lvl 160.
+- Completed High Rank Teostra in multiplayer.
+- Completed Event High Rank Teostra in multiplayer.
+- Finished making our Handicraft+, Master's Touch+, and Master's Touch decos.
