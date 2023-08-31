@@ -72,7 +72,8 @@ This is where I'm keeping track of our nightly challenge progress. Use the Table
 
 - Completed Afflicted Scorned Magnamalo, lvl 150 (third or fourth try).
 - Completed Low Rank Village "A Test of Courage" with Zinogre and Magnamalo.
-- Completed Low Rank Village Magnamalo [3 times for the back breaks we needed].
-- Completed Scorned Magnamalo
+- Completed Low Rank Village Magnamalo (3 times for the back breaks we needed).
+- Completed Scorned Magnamalo.
+- Finished making our Scorned Magnamalo lance and started on augmenting it.
 - Completed Afflicted Khezu, lvl 105.
 - Completed Afflicted Great Izuchi, lvl 21.
