@@ -67,3 +67,12 @@ This is where I'm keeping track of our nightly challenge progress. Use the Table
 - Completed High Rank Teostra in multiplayer.
 - Completed Event High Rank Teostra in multiplayer.
 - Finished making our Handicraft+, Master's Touch+, and Master's Touch decos.
+
+## Day 4 - 8/30/23
+
+- Completed Afflicted Scorned Magnamalo, lvl 150 (third or fourth try).
+- Completed Low Rank Village "A Test of Courage" with Zinogre and Magnamalo.
+- Completed Low Rank Village Magnamalo [3 times for the back breaks we needed].
+- Completed Scorned Magnamalo
+- Completed Afflicted Khezu, lvl 105.
+- Completed Afflicted Great Izuchi, lvl 21.
